@@ -1,0 +1,1 @@
+print("Maxim Durnea\n29.03.2004\nRepublica Moldova")
